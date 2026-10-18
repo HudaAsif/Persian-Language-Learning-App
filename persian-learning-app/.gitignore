@@ -1,0 +1,13 @@
+# Build output
+target/
+bin/
+*.class
+
+# Eclipse / IDE
+.metadata/
+.idea/
+*.iml
+.vscode/
+
+# Local DB password file (never upload)
+src/main/resources/db.properties
